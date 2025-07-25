@@ -65,7 +65,7 @@
 
 ###
 
-<h2 align="left">🌐 Portfolio</h2>
+<h2 align="left">Portfolio</h2>
 
 <p align="left">
 You can check out my personal portfolio here:<br>
